@@ -90,11 +90,12 @@
   * {
     @apply border-border;
   }
+
   body {
     @apply bg-background text-foreground;
-    font-family:
-      "kanit"
+    font-family: 'Kanit', sans-serif;
   }
+
 }
 
 /* Custom scrollbar for the dashboard */
